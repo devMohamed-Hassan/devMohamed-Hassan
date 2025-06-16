@@ -8,8 +8,9 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,dotnet,graphql,npm,postman,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,dotnet,graphql,npm,postman,git,github,jquery,sass,vercel,figma&perline=10" />
 </p>
+
 
 ---
 ## GitHub Activity
