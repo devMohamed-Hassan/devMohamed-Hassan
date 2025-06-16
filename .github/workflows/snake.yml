@@ -20,9 +20,15 @@ jobs:
           outputs: |
             ./github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake.svg
+          color_snake: "#00FF99"
+          color_dots: "#39FF14,#FFD700,#00BFFF,#FF1493,#FF4500"
+          color_empty: "#222222"
+          color_back: "#000000"
+          pixel_size: 12
+          speed: 2
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
           message: "Generate snake animation"
-          add: "output/github-contribution-grid-snake.svg" 
+          add: "output/github-contribution-grid-snake.svg"
