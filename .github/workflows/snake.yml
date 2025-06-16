@@ -7,14 +7,13 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: devMohamed-Hassan
@@ -26,5 +25,4 @@ jobs:
         with:
           default_author: github_actions
           message: "Generate snake animation"
-          add: "output/github-contribution-grid-snake.svg"
-          token: ${{ secrets.PAT_TOKEN }} 
+          add: "output/github-contribution-grid-snake.svg" 
