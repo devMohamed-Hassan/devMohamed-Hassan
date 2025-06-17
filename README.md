@@ -1,13 +1,14 @@
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td align="left">
       <h1>Where is My Arc❓</h1>
     </td>
-    <td>
+    <td align="right">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation" />
     </td>
   </tr>
 </table>
+
 
 
 ---
