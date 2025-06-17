@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>Where is My Arc❓</h1>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Where is My Arc❓</h1>
 
 ---
 
