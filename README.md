@@ -9,14 +9,20 @@
 
 ---
 
-## Tech Stack
+<h2 >
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" width="30" style="vertical-align: middle;" />
+  Tech Stack
+</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,dotnet,graphql,npm,postman,git,github,jquery,sass,vercel,figma&perline=10" />
 </p>
 
 
 ---
-## GitHub Activity
+<h2>
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" alt="Snake Icon" />
+  GitHub Activity
+</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devMohamed-Hassan/devMohamed-Hassan/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
@@ -31,7 +37,11 @@
 
 ---
 
-## GitHub Stats
+<h2>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" />
+  GitHub Stats
+</h2>
+
 <p align="center">
   
    <span>
