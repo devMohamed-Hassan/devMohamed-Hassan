@@ -23,6 +23,14 @@
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devMohamed-Hassan&theme=radical&margin-w=15&no-bg=true&no-frame=true&column=8" />
+</p>
+
+---
+
 ## GitHub Stats
 <p align="center">
   
