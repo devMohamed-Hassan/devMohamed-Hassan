@@ -25,10 +25,13 @@
 
 ## GitHub Stats
 <p align="center">
+  
+   <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=radical&langs_count=10" height="195" />
+  </span>
+  
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=devMohamed-Hassan&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=radical&rank_icon=github" height="195" />
   </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=radical&langs_count=10" height="195" />
-  </span>
+  
 </p>
