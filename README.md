@@ -34,8 +34,12 @@
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devMohamed-Hassan&theme=radical&margin-w=15&no-bg=true&no-frame=true&column=8" />
+<p>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=devMohamed-Hassan&theme=github&margin-w=30&no-frame=0&column=8" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto; border-radius: 10px;" 
+  />
 </p>
 
 ---
@@ -48,7 +52,7 @@
 <p align="center">
   
    <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=radical&langs_count=10" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=tokyonight&langs_count=10" height="160" />
   </span>
   
   <span>
