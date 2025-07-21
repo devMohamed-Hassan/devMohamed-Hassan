@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" width="30" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/compass_1f9ed.png" width="30" />
   Where is My Arc❓
 </h2>
 <p align="center">
@@ -32,7 +32,9 @@
 
 ---
 
-## GitHub Trophies
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="30" /> GitHub Trophies
+
+
 
 <p>
   <img 
