@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Hassan%20Esmail%20Mahmoud&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20React.js%2FNext.js%20%2B%20Node.js%2FNest.js&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Hassan%20Esmail%20Mahmoud&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Frontend%20(React%2FNext.js)%20%2B%20Backend%20(Node.js%2FNestJS)&descAlignY=55&descSize=18" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Stack+Developer+(React+%2F+Next.js+%2B+Node.js+%2F+NestJS);Competitive+Programmer;Problem+Solving+Instructor+(ICPCxSVNU);Strong+in+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,42 +25,72 @@
 ```javascript
 const mernDeveloper = {
   name: "Mohamed Hassan Esmail",
-  title: "MERN Stack Developer",
-  location: "Egypt 🇪🇬",
+  title: "Full-Stack Developer",
+  location: "Egypt",
   
   expertise: {
     frontend: {
-      library: "React.js",
-      stateManagement: ["Redux Toolkit", "Context API", "Redux Toolkit"],
+      library: ["React.js", "Next.js"],
+      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
       styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
-      tools: ["Vite", "Next.js", "React Router"]
+      realTime: "Socket.io",
+      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
+      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
     },
     backend: {
       runtime: "Node.js",
-      framework: "Express.js",
+      frameworks: ["Express.js", "NestJS"],
+      architecture: [
+        "Modular Architecture",
+        "Feature-Based Structure"
+      ],
+      realTime: "Socket.io",
       apiDesign: ["RESTful APIs", "GraphQL"],
-      authentication: ["JWT", "OAuth", "Passport.js"]
+      authentication: ["JWT", "OAuth", "OTP", "2FA"],
+      security: [
+        "bcrypt",
+        "Input Validation",
+        "CORS",
+        "Centralized Error Handling"
+      ],
+      caching: "Redis",
     },
     database: {
       primary: "MongoDB",
       orm: "Mongoose",
-      caching: "Redis",
-      others: ["PostgreSQL", "MySQL"]
+      others: ["PostgreSQL", "MySQL"],
+      design: ["ERD Design"]
     },
     devOps: {
       containerization: "Docker",
-      cloud: "AWS",
+      cloud: ["AWS EC2", "AWS S3"],
+      mediaStorage: ["Cloudinary"],
       cicd: "GitHub Actions",
       deployment: ["Vercel", "Heroku", "Railway"]
     }
+    problemSolving: {
+      level: "Advanced",
+      skills: [
+        "Data Structures",
+        "Algorithms",
+        "Time & Space complexity Optimization"
+      ],
+      competitiveProgramming: ["C++", "Java"],
+      instructorAt: "ICPCxSVNU"
+    }
   },
-  
-  currentlyLearning: ["TypeScript", "NestJS", "Microservices Architecture"],
+  currentlyLearning: [
+  "Advanced NestJS",
+  "System Design",
+  "Microservices Architecture",
+  "Docker & Containerization",
+  "Backend Testing (Unit & Integration)"
+  ],
   passion: "Building full-stack applications that solve real-world problems",
   motto: "Clean code, scalable architecture, seamless user experience"
 };
 
-console.log("Let's build something amazing with the MERN stack!");
+console.log("Let's build scalable, high-performance web applications together!");
 ```
 
 
@@ -71,7 +99,7 @@ console.log("Let's build something amazing with the MERN stack!");
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 >
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" width="30" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
   Tech Stack
 </h2>
 <p align="center">
