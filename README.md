@@ -37,6 +37,7 @@ const mernDeveloper = {
       tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
       uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
     },
+
     backend: {
       runtime: "Node.js",
       frameworks: ["Express.js", "NestJS"],
@@ -55,20 +56,23 @@ const mernDeveloper = {
       ],
       caching: "Redis",
     },
+
     database: {
       primary: "MongoDB",
       orm: "Mongoose",
       others: ["PostgreSQL", "MySQL"],
       design: ["ERD Design"]
     },
+
     devOps: {
       containerization: "Docker",
       cloud: ["AWS EC2", "AWS S3"],
       mediaStorage: ["Cloudinary"],
       cicd: "GitHub Actions",
       deployment: ["Vercel", "Heroku", "Railway"]
-    }
-    problemSolving: {
+    },
+
+  problemSolving: {
       level: "Advanced",
       skills: [
         "Data Structures",
@@ -78,7 +82,9 @@ const mernDeveloper = {
       competitiveProgramming: ["C++", "Java"],
       instructorAt: "ICPCxSVNU"
     }
+
   },
+
   currentlyLearning: [
   "Advanced NestJS",
   "System Design",
