@@ -64,7 +64,7 @@ const mernDeveloper = {
       deployment: ["Vercel", "Heroku", "Railway"]
     },
 
-  problemSolving: {
+    problemSolving: {
       level: "Advanced",
       skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"
       ],
