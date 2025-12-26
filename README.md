@@ -41,19 +41,11 @@ const mernDeveloper = {
     backend: {
       runtime: "Node.js",
       frameworks: ["Express.js", "NestJS"],
-      architecture: [
-        "Modular Architecture",
-        "Feature-Based Structure"
-      ],
+      architecture: ["Modular Architecture", "Feature-Based Structure"],
       realTime: "Socket.io",
       apiDesign: ["RESTful APIs", "GraphQL"],
       authentication: ["JWT", "OAuth", "OTP", "2FA"],
-      security: [
-        "bcrypt",
-        "Input Validation",
-        "CORS",
-        "Centralized Error Handling"
-      ],
+      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
       caching: "Redis",
     },
 
@@ -74,10 +66,7 @@ const mernDeveloper = {
 
   problemSolving: {
       level: "Advanced",
-      skills: [
-        "Data Structures",
-        "Algorithms",
-        "Time & Space complexity Optimization"
+      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"
       ],
       competitiveProgramming: ["C++", "Java"],
       instructorAt: "ICPCxSVNU"
@@ -96,7 +85,7 @@ const mernDeveloper = {
   motto: "Clean code, scalable architecture, seamless user experience"
 };
 
-console.log("Let's build scalable, high-performance web applications together!");
+console.log("Let's build scalable, high-performance web applications!");
 ```
 
 
