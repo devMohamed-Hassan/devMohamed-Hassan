@@ -66,8 +66,7 @@ const mernDeveloper = {
 
     problemSolving: {
       level: "Advanced",
-      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"
-      ],
+      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
       competitiveProgramming: ["C++", "Java"],
       instructorAt: "ICPCxSVNU"
     }
@@ -81,6 +80,7 @@ const mernDeveloper = {
   "Docker & Containerization",
   "Backend Testing (Unit & Integration)"
   ],
+
   passion: "Building full-stack applications that solve real-world problems",
   motto: "Clean code, scalable architecture, seamless user experience"
 };
