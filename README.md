@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div>
 
@@ -65,8 +65,6 @@ Open To:
 </table>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 >
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
   Tech Stack
@@ -74,10 +72,6 @@ Open To:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,graphql,npm,postman,git,github,gitlab,jquery,sass,figma,githubactions,mysql,postgres,vercel,regex,vitest,mui,mongodb,ubuntu,aws,docker,redis,prisma,yarn&perline=10" />
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h2>
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" alt="Snake Icon" />
@@ -87,8 +81,6 @@ Open To:
   <img src="https://raw.githubusercontent.com/devMohamed-Hassan/devMohamed-Hassan/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"> GitHub Statistics
 
 <br/>
@@ -96,8 +88,6 @@ Open To:
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html,css" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devMohamed-Hassan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
