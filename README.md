@@ -22,16 +22,15 @@
 
 </div>
 
-
 <table>
 <tr>
 <td width="55%" valign="top">
   
-I'm a **Full-Stack Developer** based in Egypt, passionate about crafting end-to-end web applications — elegant, performant frontends with **React / Next.js** and solid, scalable backends with **Node.js / NestJS**.
+I'm a **Software Engineer** based in Egypt, passionate about crafting end-to-end web applications — elegant, performant frontends with **React / Next.js** and solid, scalable backends with **Node.js / NestJS**.
  
-I take pride in writing **clean, maintainable code** and designing **modular architectures** that scale. Whether it's real-time features with Socket.io, secure auth flows, or complex state management — I build it properly.
+I take pride in writing **clean, maintainable code** and designing **modular architectures** that scale. Whether it's real-time features with Socket.io, secure auth flows, or complex state management — I engineer it properly.
  
-Off the keyboard, I'm a **competitive programmer** who trains in C++ & Java, and an **ICPC instructor at ICPCxSVNU**, mentoring students in algorithms and problem solving.
+Off the keyboard, I'm a **competitive programmer** who trains in C++ & Java, and an **Problem Solving instructor at ICPCxSVNU**, mentoring students in algorithms and problem solving.
  
 > *"Clean code, scalable architecture, seamless user experience."*
  
@@ -40,7 +39,7 @@ Off the keyboard, I'm a **competitive programmer** who trains in C++ & Java, and
   
 ```yaml
 Name    : Mohamed Hassan Esmail
-Role    : Full-Stack Developer
+Role    : Software Engineer
 Based   : Egypt 🇪🇬
 Focus   : React/Next.js + Node.js/NestJS
  
@@ -52,14 +51,15 @@ Currently Learning:
  
 Also Known For:
   - Competitive Programming (C++/Java)
-  - ICPC Instructor @ ICPCxSVNU
+  - PS Instructor @ ICPCxSVNU
   - DSA & Algorithm Optimization
  
 Open To:
-  - Full-stack roles
+  - Software Engineer roles
   - Freelance projects
   - Open-source collaboration
 ```
+ 
 </td>
 </tr>
 </table>
