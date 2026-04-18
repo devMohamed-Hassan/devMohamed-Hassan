@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Hassan%20Esmail%20Mahmoud&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Frontend%20(React%2FNext.js)%20%2B%20Backend%20(Node.js%2FNestJS)&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f1923,60:00D9FF,100:7C3AED&height=220&section=header&text=Mohamed%20Hassan%20Esmail&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20PS%20Instructor&descAlignY=60&descSize=17" />
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Stack+Developer+(React+%2F+Next.js+%2B+Node.js+%2F+NestJS);Competitive+Programmer;Problem+Solving+Instructor+(ICPCxSVNU);Strong+in+Data+Structures+%26+Algorithms" alt="Typing SVG" />
@@ -22,73 +22,47 @@
 
 </div>
 
-```javascript
-const mernDeveloper = {
-  name: "Mohamed Hassan Esmail",
-  title: "Full-Stack Developer",
-  location: "Egypt",
+
+<table>
+<tr>
+<td width="55%" valign="top">
   
-  expertise: {
-    frontend: {
-      library: ["React.js", "Next.js"],
-      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
-      styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
-      realTime: "Socket.io",
-      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
-      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
-    },
-
-    backend: {
-      runtime: "Node.js",
-      frameworks: ["Express.js", "NestJS"],
-      architecture: ["Modular Architecture", "Feature-Based Structure"],
-      realTime: "Socket.io",
-      apiDesign: ["RESTful APIs", "GraphQL"],
-      authentication: ["JWT", "OAuth", "OTP", "2FA"],
-      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
-      caching: "Redis",
-    },
-
-    database: {
-      primary: "MongoDB",
-      orm: "Mongoose",
-      others: ["PostgreSQL", "MySQL"],
-      design: ["ERD Design"]
-    },
-
-    devOps: {
-      containerization: "Docker",
-      cloud: ["AWS EC2", "AWS S3"],
-      mediaStorage: ["Cloudinary"],
-      cicd: "GitHub Actions",
-      deployment: ["Vercel", "Heroku", "Railway"]
-    },
-
-    problemSolving: {
-      level: "Advanced",
-      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
-      competitiveProgramming: ["C++", "Java"],
-      instructorAt: "ICPCxSVNU"
-    }
-
-  },
-
-  currentlyLearning: [
-  "Advanced NestJS",
-  "System Design",
-  "Microservices Architecture",
-  "Docker & Containerization",
-  "Backend Testing (Unit & Integration)"
-  ],
-
-  passion: "Building full-stack applications that solve real-world problems",
-  motto: "Clean code, scalable architecture, seamless user experience"
-};
-
-console.log("Let's build scalable, high-performance web applications!");
+I'm a **Full-Stack Developer** based in Egypt, passionate about crafting end-to-end web applications — elegant, performant frontends with **React / Next.js** and solid, scalable backends with **Node.js / NestJS**.
+ 
+I take pride in writing **clean, maintainable code** and designing **modular architectures** that scale. Whether it's real-time features with Socket.io, secure auth flows, or complex state management — I build it properly.
+ 
+Off the keyboard, I'm a **competitive programmer** who trains in C++ & Java, and an **ICPC instructor at ICPCxSVNU**, mentoring students in algorithms and problem solving.
+ 
+> *"Clean code, scalable architecture, seamless user experience."*
+ 
+</td>
+<td width="45%" valign="top">
+  
+```yaml
+Name    : Mohamed Hassan Esmail
+Role    : Full-Stack Developer
+Based   : Egypt 🇪🇬
+Focus   : React/Next.js + Node.js/NestJS
+ 
+Currently Learning:
+  - Advanced NestJS & Microservices
+  - System Design at scale
+  - Docker & containerization
+  - Backend testing (unit & e2e)
+ 
+Also Known For:
+  - Competitive Programming (C++/Java)
+  - ICPC Instructor @ ICPCxSVNU
+  - DSA & Algorithm Optimization
+ 
+Open To:
+  - Full-stack roles
+  - Freelance projects
+  - Open-source collaboration
 ```
-
-
+</td>
+</tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -104,6 +78,7 @@ console.log("Let's build scalable, high-performance web applications!");
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <h2>
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" alt="Snake Icon" />
   GitHub Activity
@@ -116,26 +91,28 @@ console.log("Let's build scalable, high-performance web applications!");
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"> GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devMohamed-Hassan&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=devMohamed-Hassan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-</p>
+<br/>
+<div align="center">
 
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMohamed-Hassan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html,css" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devMohamed-Hassan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>
+<br/>
+
+<h2 align="left">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" />
   Activity Graph
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMohamed-Hassan&custom_title=Mohamed%20Hassan's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
-
-
+<br/>
 <div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devMohamed-Hassan&custom_title=Mohamed+Hassan%27s+Contribution+Graph&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area_color=7C3AED" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
 
+<br/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0a0a0f&height=130&section=footer" />
 </div>
