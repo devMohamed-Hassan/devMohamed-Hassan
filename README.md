@@ -40,7 +40,7 @@ Off the keyboard, I'm a **competitive programmer** who trains in C++ & Java, and
 ```yaml
 Name    : Mohamed Hassan Esmail
 Role    : Software Engineer
-Based   : Egypt 🇪🇬
+Based   : Egypt
 Focus   : React/Next.js + Node.js/NestJS
  
 Currently Learning:
